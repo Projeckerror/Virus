@@ -22,6 +22,6 @@ pkg install git
 
 git clone
 
-cd
+cd Virus
 
 bash .sh
