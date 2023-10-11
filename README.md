@@ -1,5 +1,6 @@
 # Virus
 # Jangan lupa Subscribe YouTube gw ok
+# Saya tidak bertanggung jawab Jika kalian menggunakan tools ini untuk kejahatan.
 # gunakan tools ini dengan bijak jangan di salah gunakan ok
 # Install
 
