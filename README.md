@@ -24,4 +24,4 @@ git clone https://github.com/Projeckerror/Virus
 
 cd Virus
 
-bash Virus25.sh
+bash Virus.sh
